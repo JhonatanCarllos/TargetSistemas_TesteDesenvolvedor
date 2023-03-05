@@ -2,6 +2,7 @@
 {
     private static void Main(string[] args)
     {
+        //Questão 2 da lista
         Console.Clear();
         while (true)
         {
