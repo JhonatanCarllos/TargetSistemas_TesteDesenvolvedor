@@ -2,6 +2,7 @@
 {
     private static void Main(string[] args)
     {
+        //Questão 3
         Console.Clear();
         Console.WriteLine("Faturamento Mensal\nRelatório:\n");
         double menor = 22174.1664;
