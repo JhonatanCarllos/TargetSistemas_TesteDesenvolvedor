@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        //Questão 3
+        //Questão 3 utilei o arquivo 1(dados.json)
         Console.Clear();
         Console.WriteLine("Faturamento Mensal\nRelatório:\n");
         double menor = 22174.1664;
