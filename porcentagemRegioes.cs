@@ -2,6 +2,7 @@
 {
     private static void Main(string[] args)
     {
+        //Questão 4
         Console.Clear();
         Console.WriteLine("Faturamento Mensal\n");
         double SP = 67836.43;
