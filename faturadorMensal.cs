@@ -16,7 +16,6 @@
         {
             p = faturamento[dia];
             valor = valor + p;
-            //Console.WriteLine(faturamento[dia]);
             if (faturamento[dia] < menor && faturamento[dia] != 0)
             {
                 menor = faturamento[dia];
@@ -30,7 +29,6 @@
         }
         double media = valor / 21;
         int diaMelhores = 0;
-        //Console.WriteLine(media);
         for (var dia = 0; dia < faturamento.Length; dia++)
         {
             if (faturamento[dia] > media)
